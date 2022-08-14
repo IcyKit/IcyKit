@@ -17,6 +17,8 @@
 [<img alt="IcyKit | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="IcyKit | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="IcyKit | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+[<img alt="IcyKit | Facebook" src="https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img alt="IcyKit | Website" src="https://img.shields.io/badge/website-202023.svg?&style=for-the-badge&logo=codecademy&logoColor=white" />][website]
 
 ---
 
@@ -73,3 +75,5 @@
 [linkedin]: https://linkedin.com/in/nikita-efimov-756461237/
 [vk]: https://vk.com/mrkit228
 [twitter]: https://twitter.com/icy_kit
+[facebook]: https://www.facebook.com/icykit/
+[website]: https://www.icykit.net/
