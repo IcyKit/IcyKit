@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icykit&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
