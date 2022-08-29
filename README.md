@@ -9,6 +9,7 @@
 - 📍 I’m From Saint Petersburg (Russia)
 - 💻 1 Year Experience in Frontend and Backend Development
 - 📚 Hackaton participant
+- 🌎 My website: https://www.icykit.net/
 
 ### 🤝 Connect with me:
 
