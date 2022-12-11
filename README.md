@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://r4.wallpaperflare.com/wallpaper/77/395/701/pixel-art-andlt-aestheticandgt-town-city-waneella-hd-wallpaper-16afb7bd0dcf0939c31e6ab1f00dc4fb.jpg" style="width: 80%">
+  <img src="https://r4.wallpaperflare.com/wallpaper/77/395/701/pixel-art-andlt-aestheticandgt-town-city-waneella-hd-wallpaper-16afb7bd0dcf0939c31e6ab1f00dc4fb.jpg" style="width: 100%">
 </p>
 
 <h2 align='center'>Hello World, I'm Nikita - aka IcyKit 👋</h2>
 
-### I'm a Fullstack Developer
+### Fullstack Developer
 
-- 📍 I’m From Saint Petersburg (Russia)
-- 💻 1 Year Experience in Frontend and Backend Development
+- 📍 Saint Petersburg, Russia
+- 💻 1 Year Experience in Fullstack Development
 - 📚 Hackaton participant
 - 🌎 My website: https://www.icykit.net/
 
@@ -28,11 +28,15 @@
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="express" src="https://img.shields.io/badge/express-90c53f.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/React-5bcceb.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="redux toolkit" src="https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
 <img alt="electron" src="https://img.shields.io/badge/Electron-272A38.svg?&style=for-the-badge&logo=electron&logoColor=fff" />&nbsp;
+<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
 <img alt="npmAndYarn" src="https://img.shields.io/badge/NPM and Yarn-CB3838.svg?&style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
 <img alt="reactNative" src="https://img.shields.io/badge/React Native-5bcceb.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/Webpack-3073D7.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
@@ -45,23 +49,17 @@
 <img alt="chakraui" src="https://img.shields.io/badge/chakra%20ui-29bfb3.svg?&style=for-the-badge&logo=chakraui&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
-### 📚 Learning right now:
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="solidity" src="https://img.shields.io/badge/solidity-1a1a1a.svg?&style=for-the-badge&logo=solidity&logoColor=fff" />&nbsp;
-<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
-
 ### 💭 In plans:
-<img alt="express" src="https://img.shields.io/badge/express-90c53f.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="socket" src="https://img.shields.io/badge/socket.io-000000.svg?&style=for-the-badge&logo=socketdotio&logoColor=fff" />&nbsp;
-<img alt="postman" src="https://img.shields.io/badge/postman-F26734.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/GraphQL-E631AD.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="reduxsaga" src="https://img.shields.io/badge/redux saga-89D96E.svg?&style=for-the-badge&logo=reduxsaga&logoColor=000" />&nbsp;
+<img alt="solidity" src="https://img.shields.io/badge/solidity-1a1a1a.svg?&style=for-the-badge&logo=solidity&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
-
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="postman" src="https://img.shields.io/badge/postman-F26734.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
