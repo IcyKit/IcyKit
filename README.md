@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://r4.wallpaperflare.com/wallpaper/77/395/701/pixel-art-andlt-aestheticandgt-town-city-waneella-hd-wallpaper-16afb7bd0dcf0939c31e6ab1f00dc4fb.jpg" style="width: 100%">
+  <img src="https://user-images.githubusercontent.com/84917134/217322238-ba4d0592-8c22-43fd-a9b6-60177fd3dac1.jpg" style="width: 100%">
 </p>
+
 
 <h2 align='center'>Hello World, I'm Nikita - aka IcyKit 👋</h2>
 
