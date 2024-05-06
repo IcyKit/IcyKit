@@ -8,9 +8,8 @@
 ### Fullstack Developer
 
 - 📍 Saint Petersburg, Russia
-- 💻 1 Year Experience in Fullstack Development
+- 💻 3 Year Experience in Fullstack Development
 - 📚 Hackaton participant
-- 🌎 My website: https://www.icykit.net/
 
 ### 🤝 Connect with me:
 
@@ -20,7 +19,6 @@
 [<img alt="IcyKit | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="IcyKit | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
 [<img alt="IcyKit | Facebook" src="https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img alt="IcyKit | Website" src="https://img.shields.io/badge/website-202023.svg?&style=for-the-badge&logo=codecademy&logoColor=white" />][website]
 
 ---
 
@@ -59,20 +57,6 @@
 <img alt="figma" src="https://img.shields.io/badge/Figma-1e1e1e.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 <img alt="neovim" src="https://img.shields.io/badge/neovim-42718b.svg?&style=for-the-badge&logo=neovim&logoColor=fff" />&nbsp;
 <img alt="vscode" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-
----
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icykit&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
 
 [telegram]: https://t.me/icykit
 [instagram]: https://instagram.com/icy_kit
